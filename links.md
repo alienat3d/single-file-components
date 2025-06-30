@@ -1,0 +1,4 @@
+- (Watch our lesson on Component Names Best Practices)[https://vueschool.io/lessons/vue-3-component-naming-best-practices-in-vue]
+- (Vue 3 Single File Component Docs)[https://vuejs.org/guide/scaling-up/sfc.html#introduction]
+- (Component Naming Best Practices)[https://vueschool.io/lessons/vue-3-component-naming-best-practices-in-vue]
+- ()[]
